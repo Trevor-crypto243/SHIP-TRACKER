@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">maps2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string-array name="ship_array">
+        <item>All ships in a visible radius</item>
+        <item>A single ship information</item>
+        <item>A fleet information</item>
+    </string-array>
+</resources>
